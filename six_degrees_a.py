@@ -36,4 +36,5 @@ for item in full_return_list:
         strip_repeats.append(item)
 if orig_name in strip_repeats:
     strip_repeats.remove(orig_name)
+   
 print(sorted(strip_repeats))
