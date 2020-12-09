@@ -2,6 +2,8 @@
 
 **_(This exercise was authored by faculty members of the Singapore Management University)_**
 
+**_(In this repository, I have put forth two naive, beginner-friendly solutions)_**
+
 You are given a file called “friends.txt” that stores people who are friends with each other. Each line of the file contains two people’s names separated by a tab. These two people are friends with each other.
 
 ###### Part (a)
