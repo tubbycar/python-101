@@ -11,14 +11,23 @@ You are given a file called “friends.txt” that stores people who are friends
 Write a program that does the following. The program prompts the user for a person’s name. Call this person X. The program then prompts the user for an integer between 1 and 6. Call this number n. The program then displays all people who are within n-degrees of separation from X. You can assume that X has at least one friend, i.e., X has appeared in the file “friends.txt.”
 
 For example, suppose the file contains the following data:
+
 A	B
+
 A	C
+
 A	D
+
 B	C
+
 B	E
+
 C	D
+
 C	F
+
 D	G
+
 F	G
 
 •	Example #1: If X is E and n is 1, then the program should display only B because 1-degree separation means direct friends. 
